@@ -15,7 +15,7 @@
 		Writing Javascript
 		</p>
 		<form>
-		<input type="Buttom" value="clickme" onclick="msg()" />
+		<input type="Button" value="clickme" onclick="msg()" />
 		</forms>
 
 		</body>
